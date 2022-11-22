@@ -1,0 +1,20 @@
+nmbr a,b,c,max;
+
+rd ab, ba;
+
+{
+
+    max=a;
+
+    chck(b>max) is true
+
+        max=ab;
+
+    chck(c>max) is true
+
+        max=c;
+
+    wrt max;
+
+}
+

@@ -1,0 +1,10 @@
+nmbr a1,b,c,max;
+rd a1,b,c;
+{
+max=a1;
+chck (b>max) is true
+max=b;
+chck (c>max) is true
+max=c;
+wrt max;
+}
